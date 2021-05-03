@@ -1,2 +1,12 @@
 # random-identity-generator
 this generate random identity for making fake identity or something
+
+WARNING!
+
+I AM NOT RESPONSBILE FOR YOU TO USING
+THIS APP. AND I AM NOT RESPONSIBLE IF
+YOU SOMETHING BAD WHEN YOU'RE USING 
+THIS APP.
+
+NEVER US THIS APP FOR SOMETHING BAD OR
+SOMETHING THAT HARFUL FOR OTHERS!
