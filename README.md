@@ -12,6 +12,6 @@ NEVER US THIS CODE FOR SOMETHING BAD OR
 SOMETHING THAT HARMFUL FOR OTHERS!
 
 
-#usage
+# usage
 simply run random-iden.sh and then
 you'll get the random identitiy
